@@ -1,0 +1,10 @@
+# Versions in the Colab session that produced the final tables (see results/tables/environment_versions.csv)
+# Python 3.13.15; PyTorch 2.11.0+cu130 installed separately
+chronos-forecasting==2.3.2
+transformers==5.20.1
+peft==0.21.2
+lightgbm==4.6.0
+scikit-learn==1.6.1
+scipy==1.16.3
+pandas==2.2.3
+numpy==2.1.3

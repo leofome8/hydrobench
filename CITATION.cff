@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "hydrobench: a benchmark of foundation and domain models for monthly inflow forecasting on 158 Brazilian reservoirs (protocol v2)"
+version: 2.3.0
+date-released: 2026-11-02
+license: MIT
+authors:
+  - family-names: Forero
+    given-names: Leonardo
+    orcid: "https://orcid.org/0009-0004-8408-1916"
+    affiliation: "Universidade do Estado do Rio de Janeiro (UERJ)"
+  - family-names: de Mello Jr.
+    given-names: Harold D.
+    affiliation: "Universidade do Estado do Rio de Janeiro (UERJ)"
+  - family-names: Garcia Lima
+    given-names: Antonio Guilherme
+    affiliation: "Universidade do Estado do Rio de Janeiro (UERJ)"
+  - family-names: Talavera
+    given-names: Alvaro
+    orcid: "https://orcid.org/0000-0002-2193-4270"
+    affiliation: "Universidad del Pacífico"
+  - family-names: Lazo Lazo
+    given-names: Juan G.
+    orcid: "https://orcid.org/0000-0001-7782-118X"
+    affiliation: "Universidad del Pacífico"
+  - family-names: Pacheco
+    given-names: Marco Aurélio C.
+    affiliation: "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)"
